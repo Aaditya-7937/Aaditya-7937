@@ -137,27 +137,3 @@ aaditya = {
 </div>
 
 ---
-
-## 🏆 Achievements
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Aaditya-7937&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
----
-
-## 📈 Profile Views
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Aaditya-7937&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer"/>
-
-</div>
