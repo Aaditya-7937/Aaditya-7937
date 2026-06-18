@@ -38,7 +38,7 @@
 </td>
 <td width="50%">
 
-### 🛰️ IEEE 2026 — Pending
+### 🛰️ IEEE 2026 — ACCEPTED (ICAIAC 2026 IIIT Manipur)
 **"The Impact of Satellite-Image-Derived Embeddings on Land Valuation Accuracy in India"**
 
 > Capstone research applying computer vision embeddings to real-world land pricing — bridging geospatial AI with economic modeling.
